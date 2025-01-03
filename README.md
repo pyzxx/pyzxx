@@ -2,7 +2,7 @@
 
 ###
 
-![image](https://i.pinimg.com/originals/87/fe/e8/87fee894a415bd75f391225afc54c441.gif)
+<img src="https://i.pinimg.com/originals/87/fe/e8/87fee894a415bd75f391225afc54c441.gif" alt="Dev in" width="900">
 
 ###
 
