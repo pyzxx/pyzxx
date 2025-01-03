@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/https://open.spotify.com/intl-pt/track/7sZcqWau8YS5M2q2lX0zJt?si=ec74c009fd004b0f">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/intl-pt/track/7sZcqWau8YS5M2q2lX0zJt?si=ec74c009fd004b0f&count=5" alt="Spotify recently played"  />
+    <img src="Cupido Flagrante" alt="Spotify recently played"  />
   </a>
 </div>
 
