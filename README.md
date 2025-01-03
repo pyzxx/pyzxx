@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/intl-pt/track/7sZcqWau8YS5M2q2lX0zJt?si=ec74c009fd004b0f">
+  <a href="https://open.spotify.com/intl-pt/album/6s1Ivk33pJbOnfDazaWXZx?si=dcN8Cxl8T5m3GdQSWa_UOQ">
     <img src="https://open.spotify.com/intl-pt/album/6s1Ivk33pJbOnfDazaWXZx?si=dcN8Cxl8T5m3GdQSWa_UOQ" alt="Spotify recently played"  />
   </a>
 </div>
