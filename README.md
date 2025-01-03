@@ -26,7 +26,7 @@
     <a href="https://open.spotify.com/intl-pt/track/7sZcqWau8YS5M2q2lX0zJt?si=410e02f54c8240d3" target="_blank">
       <img alt="Recent played Music" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" height="30">
     </a>
-    <a href="https://discord.com/users/SEU_ID" target="_blank">
+    <a href="https://discord.com/users/1114426028924866642" target="_blank">
       <img alt="Discord Profile" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="30">
     </a>
   </div>
