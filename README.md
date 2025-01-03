@@ -1,6 +1,29 @@
-  #                                                                                               ゲームハッキング開発者⛩️
+<h1 align="center">ゲームハッキング開発者⛩️</h1>
 
-<h3 align="left">Dev in:</h3>
-<img align="right" alt = "coding" width="600" height = "400" src=https://giffiles.alphacoders.com/221/221253.gif>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+###
 
+![image](https://i.pinimg.com/originals/87/fe/e8/87fee894a415bd75f391225afc54c441.gif)>
+
+###
+
+<h2 align="left">Dev in</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="45" alt="unrealengine logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/https://open.spotify.com/intl-pt/track/7sZcqWau8YS5M2q2lX0zJt?si=ec74c009fd004b0f">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/intl-pt/track/7sZcqWau8YS5M2q2lX0zJt?si=ec74c009fd004b0f&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
