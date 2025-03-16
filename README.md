@@ -1,4 +1,5 @@
-<h1 align="center">ゲームハッキング開発者⛩️</h1>
+<h1 align="center">
+システム開発者</h1>
 
 ###
 
