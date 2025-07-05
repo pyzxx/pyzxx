@@ -13,21 +13,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="45" alt="unrealengine logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="20" alt="unrealengine logo"  />
 </div>
 
 ###
 
  <div align="center">
     <a href="https://open.spotify.com/intl-pt/track/7sZcqWau8YS5M2q2lX0zJt?si=410e02f54c8240d3" target="_blank">
-      <img alt="Recent played Music" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" height="30">
+      <img alt="Recent played Music" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" height="20">
     </a>
     <a href="https://discord.com/users/1114426028924866642" target="_blank">
-      <img alt="Discord Profile" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="30">
+      <img alt="Discord Profile" src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="20">
     </a>
   </div>
 
